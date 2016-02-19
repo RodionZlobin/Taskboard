@@ -2,4 +2,4 @@
 
 Spring - DATA - JPA
 
-Task "Taskboard / Project Management / SCRUM - system bases"
+Task "Taskboard / Project Management / SCRUM - bases"
